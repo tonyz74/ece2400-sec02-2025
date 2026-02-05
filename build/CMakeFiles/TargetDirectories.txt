@@ -1,0 +1,7 @@
+/home/tz454/ece2400/ece2400-sec04/build/CMakeFiles/edit_cache.dir
+/home/tz454/ece2400/ece2400-sec04/build/CMakeFiles/rebuild_cache.dir
+/home/tz454/ece2400/ece2400-sec04/build/src/CMakeFiles/sec02-lib.dir
+/home/tz454/ece2400/ece2400-sec04/build/src/CMakeFiles/square-adhoc.dir
+/home/tz454/ece2400/ece2400-sec04/build/src/CMakeFiles/avg-main.dir
+/home/tz454/ece2400/ece2400-sec04/build/src/CMakeFiles/edit_cache.dir
+/home/tz454/ece2400/ece2400-sec04/build/src/CMakeFiles/rebuild_cache.dir

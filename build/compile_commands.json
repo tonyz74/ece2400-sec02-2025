@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/tz454/ece2400/ece2400-sec04/build/src",
+  "command": "/usr/bin/cc  -I/home/tz454/ece2400/ece2400-sec04/include  -o CMakeFiles/sec02-lib.dir/square.c.o -c /home/tz454/ece2400/ece2400-sec04/src/square.c",
+  "file": "/home/tz454/ece2400/ece2400-sec04/src/square.c",
+  "output": "src/CMakeFiles/sec02-lib.dir/square.c.o"
+},
+{
+  "directory": "/home/tz454/ece2400/ece2400-sec04/build/src",
+  "command": "/usr/bin/cc  -I/home/tz454/ece2400/ece2400-sec04/include  -o CMakeFiles/square-adhoc.dir/square-adhoc.c.o -c /home/tz454/ece2400/ece2400-sec04/src/square-adhoc.c",
+  "file": "/home/tz454/ece2400/ece2400-sec04/src/square-adhoc.c",
+  "output": "src/CMakeFiles/square-adhoc.dir/square-adhoc.c.o"
+},
+{
+  "directory": "/home/tz454/ece2400/ece2400-sec04/build/src",
+  "command": "/usr/bin/cc  -I/home/tz454/ece2400/ece2400-sec04/include  -o CMakeFiles/avg-main.dir/avg-main.c.o -c /home/tz454/ece2400/ece2400-sec04/src/avg-main.c",
+  "file": "/home/tz454/ece2400/ece2400-sec04/src/avg-main.c",
+  "output": "src/CMakeFiles/avg-main.dir/avg-main.c.o"
+}
+]
